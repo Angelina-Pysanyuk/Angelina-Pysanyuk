@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angelina-Pysanyuk!
-- 👀 I’m interested in Front-End, learning foreign languages (I know English, Italian and Polish), I adore my dog Pixel (!) and enjoy having long walks with her.
-- 🌱 I’m currently working as a Front-End developer at ADW.
+- 👀 I’m interested in Cloud Infrastructure, Azure Services and learning new things! I love foreign languages (English, Italian, Polish), playing the guitar and doing sports.
+- 🌱 I’m currently working as a Cloud Infrastructure Engineer in Krakow, Poland.
 - 📫 How to reach me: 03apisanyuk@gmail.com
 
 <!---
